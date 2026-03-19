@@ -1,0 +1,26 @@
+# Tailwind CSS
+npm install -D tailwindcss postcss autoprefixer
+
+# Routing
+npm install react-router-dom
+
+# HTTP client
+npm install axios
+
+# State management
+npm install zustand
+
+# Form handling + validation
+npm install react-hook-form zod @hookform/resolvers
+
+# UI utilities
+npm install clsx tailwind-merge
+
+# Icons
+npm install lucide-react
+
+# Vite/TailwindCSS
+npm install -D @tailwindcss/vite
+
+# shadcn ui dashboard component
+npx shadcn@latest init
